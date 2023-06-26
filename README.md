@@ -6,7 +6,7 @@ My name is JEAN. I have over 15 years of experience in sales, marketing and dist
 
 
 
-![Cong Tai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=congtaiho&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Jean's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jewathe&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/congtaiho/Contact-Manager/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
