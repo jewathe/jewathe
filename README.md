@@ -12,9 +12,9 @@ My name is JEAN. I have over 15 years of experience in sales, marketing and dist
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jewathe&repo=ISIDrone&theme=highcontrast" />
 </a>    
-<a href="https://github.com/congtaiho/Memory-Game/">
+<a href="https://github.com/jewathe/KIWI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Memory-Game&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jewathe&repo=KIWI&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/congtaiho/Dealer-Toyota/">
