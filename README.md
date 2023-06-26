@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is JEAN. I have over 3 years of experience in web development<br>
+My name is Jean Waston Therane. I have over 3 years of experience in web development<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jean-therane-analyst-programmer/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/jewathe/) 
