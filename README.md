@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is JEAN. I have over 15 years of experience in sales, marketing and distribution management in Vietnam. Currently, I'm trying out a new field that is web programming, this field I'm just a newbie without much experience. But I firmly believe that my previous management experience and understanding of customer needs will help me do well in this new field.<br>
+My name is JEAN. I have over 3 years of experience in web development<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jean-therane-analyst-programmer/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/jewathe/) 
