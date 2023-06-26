@@ -10,7 +10,7 @@ My name is JEAN. I have over 15 years of experience in sales, marketing and dist
 
 <a href="https://github.com/jewathe/ISIDrone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jewathe&repo=ISIDrone&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jewathe&repo=ISIDrone&theme=highcontrast" />
 </a>    
 <a href="https://github.com/congtaiho/Memory-Game/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
