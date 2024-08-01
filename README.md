@@ -9,7 +9,7 @@ Une collection de mes travaux
   2. [Angular Cars](https://github.com/jewathe/angular-cars)
 * ### Programmation Back-End
   1. [Server Express](https://github.com/jewathe/server-express)
-  2. [Spring Boot Recipe](https://github.com/jewathe/Projects/tree/main/spring-boot-recipe)
+  2. [Spring Boot Recipe](https://github.com/jewathe/spring-boot-recipe)
 
  
 
