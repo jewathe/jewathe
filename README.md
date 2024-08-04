@@ -1,3 +1,6 @@
+# Mes CVs
+[CV](https://github.com/jewathe/CV/blob/main/CV_Jean_Waston_Therane.pdf)
+
 # Projets
 Une collection de mes travaux
 
