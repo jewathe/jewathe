@@ -1,6 +1,6 @@
-# Mes CVs
-[CV en français](https://github.com/jewathe/CV/blob/main/CV_Jean_Waston_Therane.pdf)
-[Resume in english](https://github.com/jewathe/CV/blob/main/RESUME_Jean_Waston_Therane.pdf)
+## Mes CVs
+1. [CV en français](https://github.com/jewathe/CV/blob/main/CV_Jean_Waston_Therane.pdf)
+2. [Resume in english](https://github.com/jewathe/CV/blob/main/RESUME_Jean_Waston_Therane.pdf)
 # Projets
 Une collection de mes travaux
 
