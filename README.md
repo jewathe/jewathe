@@ -5,7 +5,7 @@
 Une collection de mes travaux
 
 ## Contenus
-* ### Interface utilisateur (HTML et CSS)
+* ### Interface utilisateur (HTML, CSS, SCSS, Bootstrap)
 * 1. [Restaurant](https://github.com/jewathe/restaurant)
   2. [Papillon](https://github.com/jewathe/papillon)
 * ### Programmation Front-End
