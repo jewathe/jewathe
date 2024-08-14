@@ -15,5 +15,6 @@ Une collection de mes travaux
   1. [Server Express avec données du fichier JSON](https://github.com/jewathe/server-express)
   2. [Server Express avec PostgreSQL](https://github.com/jewathe/server-express-postgres)
   3. [Spring Boot Recipe](https://github.com/jewathe/spring-boot-recipe)
+  4. [CRUD Rest API avec .Net Core](https://github.com/jewathe/CRUD-REST-API-NET_CORE)
  
 
